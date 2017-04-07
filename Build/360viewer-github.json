@@ -4,6 +4,7 @@
 "asmCodeUrl": "360viewer-github.asm.code.unityweb",
 "asmMemoryUrl": "360viewer-github.asm.memory.unityweb",
 "asmFrameworkUrl": "360viewer-github.asm.framework.unityweb",
+"backgroundUrl": "360viewer-github.jpg",
 "splashScreenStyle": "Dark",
-"backgroundColor": "#222C36"
+"backgroundColor": "#FFFFFF"
 }
